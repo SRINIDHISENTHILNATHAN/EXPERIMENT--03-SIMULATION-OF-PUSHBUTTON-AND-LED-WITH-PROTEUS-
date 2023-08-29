@@ -71,6 +71,9 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
+#### Code developed by: SRINIDHI SENTHIL
+#### Register number: 212222230148
+
 
 #include"main.h"
 #include"stdbool.h"
